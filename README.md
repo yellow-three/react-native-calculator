@@ -1,2 +1,2 @@
-# react-native-calculator
+# React Native Calculator
 React Native Calculator
